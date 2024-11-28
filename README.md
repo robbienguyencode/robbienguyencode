@@ -11,9 +11,9 @@ Majority of my repo projects are private and closed loop. In the future I hope t
 I've been coding for a short period but I realized as an engineer you get to solve many issues. Engineering has always been exciting to me because it challenges me and requires me to think critically. I love using languages like python and frameworks of Javascript in my projects. When I create software that automates tasks in my life and that helps me enjoy learning to code in the process, that is truly amazing.
 
 *   🌍  I'm based in Lancaster, PA
-*   🖥️  See my portfolio at [My public github portfolio (not finished) (information+contact)](http://public-github-portfolio-robbienguyen-profile 661088585.netlify.app/)
+*   🖥️  See my portfolio at [My public github portfolio (not finished) (information+contact)](http://public-github-portfolio-robbienguyen-profile661088585.netlify.app/)
 *   ✉️  You can contact me at [robbie.nguyen.work@gmail.com](mailto:robbie.nguyen.work@gmail.com)
-*   🚀  I'm currently working on [a DNS server to serve as a proxy](http://n)
+*   🚀  I'm currently working on a DNS server to serve as a proxy
 *   🧠  I'm learning Vue.js
 *   🤝  I'm open to collaborating on interesting projects focused mainly on the front end### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
