@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Freelance Developer tackling my own projects by fun!
 ----------------------------------------------------
-
+[*last updated January 2021] not active information-> check other links displayed on profile]
 
 Majority of my repo projects are private and closed loop. In the future I hope to open source my projects for everyone to learn from!
 
